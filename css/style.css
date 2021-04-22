@@ -152,6 +152,10 @@ aside#sidebar{
   margin-top:10px;
 }
 
+#sidebar p {
+  text-align: justify;
+}
+
 aside#sidebar .quote input, aside#sidebar .quote textarea{
   width:90%;
   padding:5px;
@@ -168,7 +172,7 @@ article#main-col{
   width:65%;
 }
 
-.main-col p {
+#main-col p {
   text-align: justify;
 }
 

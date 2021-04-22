@@ -147,6 +147,10 @@ aside#sidebar .quote input, aside#sidebar .quote textarea{
   padding:5px;
 }
 
+textarea {
+  resize: vertical; 
+}
+
 /* Main-col */
 article#main-col{
   float:left;

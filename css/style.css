@@ -82,9 +82,10 @@ header a:hover{
 /* Showcase */
 #showcase{
   min-height:400px;
-  background:url('../img/showcase.jpg') no-repeat 0 -400px;
+  background:url('../img/showcase.jpg') no-repeat center center;
   text-align:center;
   color:#ffffff;
+  height: 600px;
 }
 
 #showcase h1{
@@ -121,7 +122,8 @@ header a:hover{
 
 /* Boxes */
 #boxes{
-  margin-top:20px;
+  margin-top: 100px;
+  margin-bottom: 50px;
 }
 
 #boxes .box{
@@ -147,7 +149,7 @@ aside#sidebar .quote input, aside#sidebar .quote textarea{
   padding:5px;
 }
 
-textarea {
+textarea { 
   resize: vertical;
   height: 50px;
 }

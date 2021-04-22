@@ -34,7 +34,7 @@ ul{
   margin-bottom:10px;
 }
 
-/* Header **/
+/* Header */
 header{
   background:#35424a;
   color:#ffffff;
@@ -166,6 +166,10 @@ textarea {
 article#main-col{
   float:left;
   width:65%;
+}
+
+.main-col p {
+  text-align: justify;
 }
 
 /* Services */

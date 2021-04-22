@@ -148,7 +148,8 @@ aside#sidebar .quote input, aside#sidebar .quote textarea{
 }
 
 textarea {
-  resize: vertical; 
+  resize: vertical;
+  height: 50px;
 }
 
 /* Main-col */
